@@ -1,4 +1,4 @@
-package com.jareer.social;
+package com.jareer.oauth2.social;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
