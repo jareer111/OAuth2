@@ -7,12 +7,17 @@ OAuth2 &amp; Spring boot 3 &amp; Social login
 
 
 
-
-**____________________________________________________**
-
+**1.STEP: ➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖**
 
 
 
 
-1.STEP: ![Screenshot from 2023-05-18 11-51-01](https://github.com/jareer111/OAuth2/assets/113532802/06cdbc37-cdde-4c62-97d8-e9e7bb9ae33f)
 
+ ![Screenshot from 2023-05-18 11-51-01](https://github.com/jareer111/OAuth2/assets/113532802/06cdbc37-cdde-4c62-97d8-e9e7bb9ae33f) 
+
+
+**2.STEP: ➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖**
+
+
+
+ ![Screenshot from 2023-05-18 12-10-19](https://github.com/jareer111/OAuth2/assets/113532802/80ed3131-99b6-4823-8763-3190796bd334)
